@@ -1,0 +1,18 @@
+{
+  "background_color": "#ccd8e0",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PHC Perfusion Calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PerfCalcu",
+  "start_url": "https://kylezamuel.github.io/phcperfusioncalculator/",
+  "theme_color": "#3d83a5",
+  "id": "phcperf",
+  "description": "PHC Perfusion Calculator\n\nA comprehensive, offline-capable clinical decision support tool designed for cardiovascular perfusionists and surgical specialists.\n\nThe PHC Perfusion Calculator is a robust web-based clinical utility modeled after the official Philippine Heart Center (PHC) Perfusion Section Standards and Guidelines. Built for reliability in high-stakes clinical environments, it operates 100% offline and empowers perfusion teams to perform instant, accurate calculations right at the bedside or in the operating room.\n\nKey Features:\n1. Patient Demographics &amp; BSA: Automated Body Surface Area (BSA) calculations, estimated blood volume indexes, and age-adjusted MAP targets across adult and pediatric profiles.\n\n2. Flow &amp; Hydraulic Requirements: Real-time cardiac index flow determinations alongside hypothermia temperature-based flow tables.\n\n3. Hematocrit, Transfusion &amp; DO₂: Post-dilution Hct predictions, RBC volume deficits, pRBC transfusion requirements, and full-flow oxygen delivery tracking with critical safety alerts.\n\n4. ACT &amp; Electrolyte Corrections: Dynamic dosing algorithms for supplemental heparin, sodium bicarbonate (base deficit), potassium chloride,  and calcium supplementation.\n\n5. Auto Tubing &amp; Cannula Sizing: Intelligent size recommendations for pump boots, arterial/venous tubing, aortic root cannulas, EOPA, single-stage, dual-stage, and long venous cannulas.\n\n6. Cardioplegia Protocol: Instant volumetric dosing breakdowns for Conventional (Adult/Pediatric), Del Nido, Lamelas, and HTK (Custodiol) cardioplegia delivery protocols.\n\n7. Clinical Reporting: Built-in PDF/print report generation and local state persistence to streamline workflow documentation.\n\nDesigned for professional clinical use by trained cardiovascular perfusionists.",
+  "lang": "en",
+  "categories": [
+    "medical",
+    "utilities"
+  ]
+}
