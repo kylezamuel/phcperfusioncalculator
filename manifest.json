@@ -14,6 +14,7 @@
   "categories": [
     "medical",
     "utilities"
+  ],
   "icons": [
     {
       "src": "./37BC97F7-7A29-4B4C-B28F-0867DCA542D1.png",
@@ -22,7 +23,7 @@
       "purpose": "any"
     },
     {
-      "src": "./C71637BB-59DF-41EC-8833-AAB3BCEE4334.png.png",
+      "src": "./C71637BB-59DF-41EC-8833-AAB3BCEE4334.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
