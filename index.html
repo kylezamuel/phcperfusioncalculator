@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHC Perfusion Calculator</title>
+    <link rel="manifest" href="./manifest.json">
+    <meta name="theme-color" content="#0d9488">
     <style>
         /* Base Reset & System Typography (Replaces Google Fonts Inter) */
         *, *::before, *::after {
@@ -1965,5 +1967,12 @@
             calculateAll();
         };
     </script>
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js').catch(() => {});
+    });
+  }
+</script>
 </body>
 </html>
