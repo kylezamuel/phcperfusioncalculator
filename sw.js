@@ -5,7 +5,7 @@ const ASSETS_TO_CACHE = [
   "./index.html",
   "./manifest.json",
   "./C71637BB-59DF-41EC-8833-AAB3BCEE4334.png.png",
-  "./icon-512.png"
+  "./37BC97F7-7A29-4B4C-B28F-0867DCA542D1.png.png"
 ];
 
 self.addEventListener("message", (event) => {
