@@ -14,5 +14,48 @@
   "categories": [
     "medical",
     "utilities"
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./screenshot-1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Patient Demographics & Flow Rates"
+    },
+    {
+      "src": "./screenshot-2.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Priming, Low Flow, and NIRS Limit"
+    },
+    {
+      "src": "./screenshot-3.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Hematocrit, Transfusion, and Oxygen Delivery"
+    },
+    {
+      "src": "./screenshot-4.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Hypothermia Temperature-based Flow Requirements"
+    }
   ]
 }
