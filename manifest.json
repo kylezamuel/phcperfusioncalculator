@@ -30,28 +30,28 @@
   ],
   "screenshots": [
     {
-      "src": "./screenshot-1.png",
+      "src": "./IMG_9450.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Patient Demographics & Flow Rates"
     },
     {
-      "src": "./screenshot-2.png",
+      "src": "./IMG_9451.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Priming, Low Flow, and NIRS Limit"
     },
     {
-      "src": "./screenshot-3.png",
+      "src": "./IMG_9452.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Hematocrit, Transfusion, and Oxygen Delivery"
     },
     {
-      "src": "./screenshot-4.png",
+      "src": "./IMG_9453.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
